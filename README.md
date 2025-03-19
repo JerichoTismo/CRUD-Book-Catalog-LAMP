@@ -109,5 +109,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 - [DataTables](https://datatables.net/)
 
 ## Contact
-For any questions or inquiries, please contact [jerichotismo0@gmail.com].
+For any questions or inquiries, please contact jerichotismo0@gmail.com.
 
